@@ -1,3 +1,8 @@
+I very much recommend folks use their own code, I'm an idiot and have no idea what I'm doing.\
+That said, this works great. Debounce seems to be fine for my switches, but adjust as needed.
+
+The following writeup is ChatGPT generated.
+
 # ADD 10 Key V2
 
 Welcome to **ADD 10 Key V2**! This is the second version of my custom numpad project, designed to add seamless functionality and dynamic lighting effects to any keyboard setup.
