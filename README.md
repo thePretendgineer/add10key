@@ -35,11 +35,12 @@ To use this code, ensure you have the following:
 
 The numpad has a traditional layout, with common keys such as NumLock, Backspace, and Enter. Here’s the layout for reference:
 
-NLCK | / | * | ⌫
-7 | 8 | 9 | +
-4 | 5 | 6 |
-1 | 2 | 3 | ⏎
-0   0   .
+| NLCK |  /   |  *  | ⌫  |
+|------|------|-----|-----|
+|  7   |  8   |  9  |  +  |
+|  4   |  5   |  6  |     |
+|  1   |  2   |  3  | ⏎  |
+|      |  0   |  0  |  .  |
 
 
 ## Keymap Configuration
